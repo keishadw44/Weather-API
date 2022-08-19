@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+  background-image:url("images/neda-astani-KWTkd7mHqKE-unsplash.jpg");
+  background-size: 2000px;
+}
+
+body{
+    padding: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-self: flex-end;
+    text-align: center;
+    
+}
+
